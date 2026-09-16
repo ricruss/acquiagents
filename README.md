@@ -6,7 +6,7 @@ This repository holds only the released builds and the Sparkle appcast. The appl
 
 ## Install
 
-Download the latest `AcquiAgents-<version>.dmg` from [Releases](https://github.com/ricruss/acquiagents/releases), open it and drag the app to Applications. The app is signed with a Developer ID certificate and notarized by Apple. It checks this feed for updates once a day and never installs one without asking.
+Download the latest `AcquiAgents-<version>.dmg` from [Releases](https://github.com/ricruss/acquiagents/releases), open it and drag the app to Applications. Ignore the "Source code (zip / tar.gz)" links GitHub adds to every release: they are snapshots of this repository, which is only this README and the update feed, not the application's source. The app is signed with a Developer ID certificate and notarized by Apple. It checks this feed for updates once a day and never installs one without asking.
 
 ## Requirements
 
