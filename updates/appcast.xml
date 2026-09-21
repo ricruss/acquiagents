@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Acqui Agents</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 21 Sep 2026 08:50:27 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ricruss/acquiagents/releases/download/v0.3.0/AcquiAgents-0.3.0.dmg" length="6658835" type="application/octet-stream" sparkle:edSignature="kekniXRL26C/6ynlL11dg1g3UUBIQp9+hUbjo+x1qnLBvN2SWvXDGE3/2Ji3AoTT0MHxtmN4S4MI1fcZX8M5CA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Fri, 18 Sep 2026 15:01:10 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -26,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +9fZjA1UlikIZeL/6GL8MuY2py9CK37by/KobJa3gRESDkA5sYe0AoYm1rhxdYWx+UyydEVbVkiNBHOnSByUAA==
-length: 1806
+edSignature: QB8wWt2zpbVZgU597Rm5EKtwoNEIAbCpRoQElBnPBEfUCZ6TxttMKEe3y+xEPEnEoEFEoaMdgMNEfcRBE0GTDQ==
+length: 2491
 -->
